@@ -4,16 +4,6 @@ Proyek ini bertujuan untuk melakukan segmentasi pelanggan menggunakan metode **K
 
 ---
 
-## 📁 Struktur Proyek
-
-data-science-marketing-segmentation/  
-├── README.md               # Dokumentasi proyek  
-├── segmentation.R          # Skrip utama untuk analisis dan clustering  
-└── data/  
-  └── customer_segments.txt  # Data pelanggan (sumber: DQLab)  
-
----
-
 ## 🎯 Tujuan Proyek
 
 - Mengelompokkan pelanggan berdasarkan data demografis dan perilaku pembelian.  
